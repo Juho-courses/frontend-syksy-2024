@@ -3,16 +3,16 @@
 ## Asiat
 
 - Muuttujat
+  - Arrayt, objektit
 - Funktiot
-    - Normi
-    - Arrow
+  - Normi
+  - Arrow
 - Spreading
 - Destructuring
-- Arrayt, objektit
 - Template literals
 - Kirjastot
-    - Asennus
-    - Käyttö
+  - Asennus
+  - Käyttö
 
 ## Linkkejä
 
